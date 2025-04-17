@@ -15,4 +15,5 @@ cscript ospp.vbs /unpkey:XXXXX
 ```
 > Replace `XXXXX` with the last 5 characters of the key from step 3.
 ---
-office-license-cleanup
+[Read more](https://github.com/winoff-master/)
+---
